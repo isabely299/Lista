@@ -2,18 +2,18 @@
 
 Este é um programa simples de gerenciamento de lista feito em Python. Ele permite ao usuário adicionar, remover e visualizar itens em uma lista de maneira interativa.
 
-## 💡 Funcionalidades
+## Funcionalidades
 
 - Adicionar itens à lista.
 - Remover itens específicos da lista.
 - Exibir todos os itens da lista com numeração.
 - Sair do programa a qualquer momento.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação usada para desenvolver o programa.
 
-## 🚀 Como Executar o Programa
+## Como Executar o Programa
 
 Ao executar o programa, você verá o seguinte menu:
 
